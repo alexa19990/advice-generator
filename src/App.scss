@@ -1,0 +1,20 @@
+.text-center{
+    background-color: hsl(217, 19%, 24%);
+
+    p{
+        color: hsl(150, 100%, 66%);
+    }
+
+    h1{
+        color: hsl(193, 38%, 86%);
+    }
+
+    button{
+        background-color: hsl(150, 100%, 66%);
+    }
+
+    button:hover{
+        box-shadow:hsl(150, 100%, 66%) 1px 1px 20px ;
+        transition: 0.2s;
+    }
+}
